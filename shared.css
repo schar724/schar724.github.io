@@ -7,6 +7,7 @@ html{
 }
 
 body{
+    background-color: #dad3ff;
     width: 100%;
     padding: 0;
     margin: 0;
@@ -42,10 +43,10 @@ header a:hover, footer a:hover {
 }
 
 footer{
-    width: 1440px;
+    width: 1408px;
     padding: 1rem;
     text-align: center;
-    background-color: #719b27;
+    background-color: #b5a7ff;
 }
 
 footer p{
