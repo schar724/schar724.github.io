@@ -9,7 +9,7 @@
 .icons {
     width: 800px;
     font-size: 15px;
-    margin-left: 5rem;  
+    margin-left: 20px;  
     text-align: end;
 }
 
@@ -44,7 +44,7 @@ figure img{
 .map{
     width: 800px;
     margin-top: 0;
-    margin-left: 5rem;
+    margin-left: 20px;
 }
 
 
