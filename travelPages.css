@@ -1,0 +1,49 @@
+
+.top {
+    margin: 0;
+    background-repeat: no-repeat;
+    height: 610px;
+    width: 100%;
+}
+
+.icons {
+    width: 800px;
+    font-size: 15px;
+    margin-left: 5rem;  
+    text-align: end;
+}
+
+.mainPhoto {
+    width: 800px;
+    margin-top: 0;
+    margin-left: 5rem;
+}
+
+h1{
+    margin: 0;
+    background-color: #51279B;
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+}
+
+h2 {
+    margin: 0;
+    background-color: #51279B;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+}
+
+.mainPhoto img{
+    margin: 0;
+}
+
+.map{
+    margin-top: 0;
+    margin-left: 5rem;
+}
+
+
